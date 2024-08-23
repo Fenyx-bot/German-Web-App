@@ -1,0 +1,33 @@
+{% extends "base.html" %} {% block title %}Home{% endblock %}
+{% block content %}
+    <div class="jumbotron text-center">
+        <h1 class="display-4">Welcome to Deutsch Ritter Quest!</h1>
+        <p class="lead">Work your way up to be the best German speaker!</p>
+    </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <h2>About Deutsch Ritter Quest</h2>
+        <p>
+          Deutsch Ritter Quest is a platform designed to enhance your German language skills through engaging quests and challenges.
+          Join us on a journey to become a proficient German speaker, one quest at a time.
+        </p>
+      </div>
+      <div class="col-md-6">
+        <h2>Get Started</h2>
+        <p>
+          New to Deutsch Ritter Quest? Sign up now and begin your language learning adventure!
+        </p>
+        <a class="btn btn-primary" href="sign-up" role="button">Sign Up</a>
+        <br>
+        <h2>Already a Quester?</h2>
+        <p>
+          Welcome back! Log in to continue your Deutsch Ritter Quest.
+        </p>
+        <a class="btn btn-success" href="login" role="button">Log In</a>
+      </div>
+    </div>
+  </div>
+
+{% endblock %}
