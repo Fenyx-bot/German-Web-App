@@ -1,8 +1,17 @@
 from flask import Blueprint, render_template
-from . import auth
 
-views = Blueprint('views', __name__)
+from utils import get_words
 
-@views.route('/')
+views = Blueprint("views", __name__)
+
+
+@views.route("/")
 def home():
     return render_template("home.html")
+
+
+@views.route("/words")
+def words():
+    words = get_words()
+    return render_template("words.html", words=words)
+

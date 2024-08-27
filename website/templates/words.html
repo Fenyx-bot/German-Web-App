@@ -1,0 +1,10 @@
+{% extends "base.html" %}
+{% block content %}
+  <h1>Words</h1>
+  <p>Here are some words:</p>
+  <ul>
+    {% for word in words %}
+      <li>{{ word.word_german }} -> {{ word.word_english }}</li>
+    {% endfor %}
+  </ul>
+{% endblock %}
