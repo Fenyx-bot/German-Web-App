@@ -1,0 +1,566 @@
+[
+    {
+        "word": "Woche",
+        "word_english": "week",
+        "definition": "Es sind sieben Tage in einer Woche und vier volle Wochen in einem Monat.",
+        "definition_english": "There are seven days in one week, and four full weeks in a month."
+    },
+    {
+        "word": "Jahr",
+        "word_english": "year",
+        "definition": "ein Kalenderjahr",
+        "definition_english": "one calendar year"
+    },
+    {
+        "word": "heute",
+        "word_english": "today",
+        "definition": "heute um 6:15",
+        "definition_english": "today at 6:15"
+    },
+    {
+        "word": "morgen",
+        "word_english": "tomorrow",
+        "definition": "Bis morgen!",
+        "definition_english": "See you tomorrow!"
+    },
+    {
+        "word": "gestern",
+        "word_english": "yesterday",
+        "definition": "gestern Nachmittag",
+        "definition_english": "yesterday afternoon"
+    },
+    {
+        "word": "Kalender",
+        "word_english": "calendar",
+        "definition": "ein Kalenderjahr",
+        "definition_english": "one calendar year"
+    },
+    {
+        "word": "Sekunde",
+        "word_english": "second",
+        "definition": "Es sind sechzig Sekunden in einer Minute.",
+        "definition_english": "There are sixty seconds in a minute."
+    },
+    {
+        "word": "Stunde",
+        "word_english": "hour",
+        "definition": "Ich werde in einer Stunde von der Arbeit zur\u00fcck zu Hause sein.",
+        "definition_english": "I\u2019ll be home from work in an hour."
+    },
+    {
+        "word": "Minute",
+        "word_english": "minute",
+        "definition": "Es sind sechzig Sekunden in einer Minute.",
+        "definition_english": "There are sixty seconds in a minute."
+    },
+    {
+        "word": "Uhr",
+        "word_english": "o'clock",
+        "definition": "3 Uhr",
+        "definition_english": "3 o\u2019clock"
+    },
+    {
+        "word": "Uhr",
+        "word_english": "clock",
+        "definition": "Die Uhr zeigt acht Minuten vor zw\u00f6lf.",
+        "definition_english": "The clock reads eight minutes to twelve."
+    },
+    {
+        "word": "k\u00f6nnen",
+        "word_english": "can",
+        "definition": "dr\u00fcberspringen k\u00f6nnen",
+        "definition_english": "can jump over"
+    },
+    {
+        "word": "benutzen",
+        "word_english": "use",
+        "definition": "Die Person benutzt einen Computer, um eine E-Mail zu schreiben.",
+        "definition_english": "The person is using a computer to write an e-mail."
+    },
+    {
+        "word": "machen",
+        "word_english": "do",
+        "definition": "Die Frau macht Hausarbeit.",
+        "definition_english": "The woman does housework."
+    },
+    {
+        "word": "gehen",
+        "word_english": "go",
+        "definition": "geradeaus gehen",
+        "definition_english": "go straight ahead"
+    },
+    {
+        "word": "kommen",
+        "word_english": "come",
+        "definition": "Das M\u00e4dchen kam auf die Videokamera zu.",
+        "definition_english": "The girl came towards the video camera."
+    },
+    {
+        "word": "lachen",
+        "word_english": "laugh",
+        "definition": "Das Paar lacht \u00fcber das Bild.",
+        "definition_english": "The couple laughs at the picture."
+    },
+    {
+        "word": "machen",
+        "word_english": "make",
+        "definition": "Der Koch macht Orangensaft.",
+        "definition_english": "The chef makes orange juice."
+    },
+    {
+        "word": "sehen",
+        "word_english": "see",
+        "definition": "Die Touristen sehen den Sonnenuntergang.",
+        "definition_english": "The tourists see the sunset."
+    },
+    {
+        "word": "weit",
+        "word_english": "far",
+        "definition": "Die Frau guckt auf etwas, das weit entfernt ist.",
+        "definition_english": "The woman is looking at something far away."
+    },
+    {
+        "word": "klein",
+        "word_english": "small",
+        "definition": "kleines K\u00fcken",
+        "definition_english": "small chick"
+    },
+    {
+        "word": "gut",
+        "word_english": "good",
+        "definition": "Gem\u00fcse ist gut f\u00fcr dich.",
+        "definition_english": "Vegetables are good for you."
+    },
+    {
+        "word": "sch\u00f6n",
+        "word_english": "beautiful",
+        "definition": "Sie ist eine sch\u00f6ne Frau.",
+        "definition_english": "She is a beautiful woman."
+    },
+    {
+        "word": "h\u00e4sslich",
+        "word_english": "ugly",
+        "definition": "h\u00e4ssliches Gesicht",
+        "definition_english": "ugly face"
+    },
+    {
+        "word": "schwierig",
+        "word_english": "difficult",
+        "definition": "sehr schwierig",
+        "definition_english": "very difficult"
+    },
+    {
+        "word": "einfach",
+        "word_english": "easy",
+        "definition": "einfache Entscheidung",
+        "definition_english": "easy decision"
+    },
+    {
+        "word": "schlecht",
+        "word_english": "bad",
+        "definition": "Der Mann ist schlecht.",
+        "definition_english": "The man is bad."
+    },
+    {
+        "word": "Freut mich, Sie kennenzulernen.",
+        "word_english": "Nice to meet you.",
+        "definition": "Hallo Peter, mein Name ist Richard und es freut mich dich kennen zu lernen.",
+        "definition_english": "Hello Peter, my name is Richard and it is nice to meet you."
+    },
+    {
+        "word": "Hallo.",
+        "word_english": "Hello.",
+        "definition": "Wenn ich jemanden zum ersten Mal treffe, sage ich gerne \"Hallo.\"",
+        "definition_english": "When I first meet someone, I like to say, \"Hello.\""
+    },
+    {
+        "word": "Guten Morgen.",
+        "word_english": "Good morning.",
+        "definition": "Frau Ishikawa, guten Morgen.",
+        "definition_english": "Ms. Ishikawa, good morning."
+    },
+    {
+        "word": "Guten Tag.",
+        "word_english": "Good afternoon.",
+        "definition": "\"Guten Tag\" ist eine Begr\u00fc\u00dfung, die man vom Mittag bis zum fr\u00fchen Abend gebraucht.",
+        "definition_english": "\"Good afternoon,\" is a greeting used from noon to early evening."
+    },
+    {
+        "word": "Guten Abend.",
+        "word_english": "Good evening.",
+        "definition": "Guten Abend. Willkommen.",
+        "definition_english": "Good evening. Welcome."
+    },
+    {
+        "word": "Wie geht es dir?",
+        "word_english": "How are you?",
+        "definition": "Mir geht es gut, wie geht es dir?",
+        "definition_english": "I'm doing very well, how are you?"
+    },
+    {
+        "word": "Danke.",
+        "word_english": "Thank you!",
+        "definition": "Danke, aber",
+        "definition_english": "thank you, but"
+    },
+    {
+        "word": "Nein.",
+        "word_english": "No.",
+        "definition": "\"Nein\"-Zeichen",
+        "definition_english": "\"no\" sign"
+    },
+    {
+        "word": "Montag",
+        "word_english": "Monday",
+        "definition": "Montag, Dienstag, Mittwoch, Donnerstag und Freitag sind Wochentage.",
+        "definition_english": "Monday, Tuesday, Wednesday, Thursday and Friday are weekdays."
+    },
+    {
+        "word": "Dienstag",
+        "word_english": "Tuesday",
+        "definition": "Montag, Dienstag, Mittwoch, Donnerstag und Freitag sind Wochentage.",
+        "definition_english": "Monday, Tuesday, Wednesday, Thursday and Friday are weekdays."
+    },
+    {
+        "word": "Mittwoch",
+        "word_english": "Wednesday",
+        "definition": "Morgen ist Mittwoch und \u00fcbermorgen ist Donnerstag.",
+        "definition_english": "Tomorrow is Wednesday, and the day after tomorrow is Thursday."
+    },
+    {
+        "word": "Donnerstag",
+        "word_english": "Thursday",
+        "definition": "Morgen ist Mittwoch und \u00fcbermorgen ist Donnerstag.",
+        "definition_english": "Tomorrow is Wednesday, and the day after tomorrow is Thursday."
+    },
+    {
+        "word": "Freitag",
+        "word_english": "Friday",
+        "definition": "Montag, Dienstag, Mittwoch, Donnerstag und Freitag sind Wochentage.",
+        "definition_english": "Monday, Tuesday, Wednesday, Thursday and Friday are weekdays."
+    },
+    {
+        "word": "Samstag",
+        "word_english": "Saturday",
+        "definition": "keine Pl\u00e4ne f\u00fcr Samstag",
+        "definition_english": "no plans for Saturday"
+    },
+    {
+        "word": "Sonntag",
+        "word_english": "Sunday",
+        "definition": "Wir schlafen sonntags morgens gerne aus.",
+        "definition_english": "We like to sleep late on Sunday mornings."
+    },
+    {
+        "word": "Mai",
+        "word_english": "May",
+        "definition": "Jetzt ist es April, also wird n\u00e4chsten Monat Mai sein.",
+        "definition_english": "It is now April so next month will be May."
+    },
+    {
+        "word": "Januar",
+        "word_english": "January",
+        "definition": "Dienstag, der 1. Januar",
+        "definition_english": "Tuesday, January 1st"
+    },
+    {
+        "word": "Februar",
+        "word_english": "February",
+        "definition": "Schalttag ist der 29. Februar.",
+        "definition_english": "Leap year day is February 29th."
+    },
+    {
+        "word": "M\u00e4rz",
+        "word_english": "March",
+        "definition": "Jetzt ist es April also war der letzte Monat M\u00e4rz.",
+        "definition_english": "It is now April so last month was March."
+    },
+    {
+        "word": "April",
+        "word_english": "April",
+        "definition": "Jetzt ist es April, also wird n\u00e4chsten Monat Mai sein.",
+        "definition_english": "It is now April so next month will be May."
+    },
+    {
+        "word": "Juni",
+        "word_english": "June",
+        "definition": "Wir werden im Juni heiraten.",
+        "definition_english": "We are getting married in June."
+    },
+    {
+        "word": "Juli",
+        "word_english": "July",
+        "definition": "Juli ist nach Julius Caesar benannt, der im Juli geboren wurde.",
+        "definition_english": "July is named for Julius Caesar, who was born in July."
+    },
+    {
+        "word": "August",
+        "word_english": "August",
+        "definition": "Die Schule ist im August geschlossen.",
+        "definition_english": "The school is closed in August."
+    },
+    {
+        "word": "September",
+        "word_english": "September",
+        "definition": "Heute ist Samstag, der 10. September.",
+        "definition_english": "Today is Saturday, September 10th."
+    },
+    {
+        "word": "Oktober",
+        "word_english": "October",
+        "definition": "Halloween f\u00e4llt auf den 31. Oktober.",
+        "definition_english": "Halloween falls on October 31st."
+    },
+    {
+        "word": "November",
+        "word_english": "November",
+        "definition": "Erntedankfest, Donnerstag, 24. November",
+        "definition_english": "Thanksgiving, Thursday November 24th"
+    },
+    {
+        "word": "Dezember",
+        "word_english": "December",
+        "definition": "Freitag, der 8. Dezember",
+        "definition_english": "Friday, December 8th"
+    },
+    {
+        "word": "null",
+        "word_english": "zero",
+        "definition": "Nummer null",
+        "definition_english": "number zero"
+    },
+    {
+        "word": "eins",
+        "word_english": "one",
+        "definition": "ein Uhr",
+        "definition_english": "one o'clock"
+    },
+    {
+        "word": "zwei",
+        "word_english": "two",
+        "definition": "Die Nummer zwei ist meine Lieblingszahl.",
+        "definition_english": "The number two is my favorite number."
+    },
+    {
+        "word": "drei",
+        "word_english": "three",
+        "definition": "drei Grad",
+        "definition_english": "three degrees"
+    },
+    {
+        "word": "vier",
+        "word_english": "four",
+        "definition": "November ist einer von vier Monaten mit drei\u00dfig Tagen.",
+        "definition_english": "November is one of four months with thirty days."
+    },
+    {
+        "word": "f\u00fcnf",
+        "word_english": "five",
+        "definition": "Der Seestern hat f\u00fcnf Beine.",
+        "definition_english": "The starfish has five legs."
+    },
+    {
+        "word": "sechs",
+        "word_english": "six",
+        "definition": "sechs Dinge",
+        "definition_english": "six things"
+    },
+    {
+        "word": "sieben",
+        "word_english": "seven",
+        "definition": "Es sind sieben (7) Tage in jeder Woche.",
+        "definition_english": "There are seven days in a week."
+    },
+    {
+        "word": "acht",
+        "word_english": "eight",
+        "definition": "acht Grad",
+        "definition_english": "eight degrees"
+    },
+    {
+        "word": "neun",
+        "word_english": "nine",
+        "definition": "neun Grad",
+        "definition_english": "nine degrees"
+    },
+    {
+        "word": "zehn",
+        "word_english": "ten",
+        "definition": "zehn Grad",
+        "definition_english": "ten degrees"
+    },
+    {
+        "word": "Kaffee",
+        "word_english": "coffee",
+        "definition": "Tasse Kaffee",
+        "definition_english": "cup of coffee"
+    },
+    {
+        "word": "Bier",
+        "word_english": "beer",
+        "definition": "Ich genie\u00dfe eine Dose oder Flasche Bier, wenn ich Sport im Fernsehen anschaue.",
+        "definition_english": "I enjoy a can or bottle of beer when watching sports on television."
+    },
+    {
+        "word": "Tee",
+        "word_english": "tea",
+        "definition": "Tasse Tee",
+        "definition_english": "cup of tea"
+    },
+    {
+        "word": "Wein",
+        "word_english": "wine",
+        "definition": "Glas Wein",
+        "definition_english": "glass of wine"
+    },
+    {
+        "word": "Wasser",
+        "word_english": "water",
+        "definition": "Kann ich bitte etwas Wasser haben?",
+        "definition_english": "Can I have some water, please?"
+    },
+    {
+        "word": "Rindfleisch",
+        "word_english": "beef",
+        "definition": "geschmackvolles Rindfleisch",
+        "definition_english": "flavorful beef"
+    },
+    {
+        "word": "Schweinefleisch",
+        "word_english": "pork",
+        "definition": "Schweinefleisch ist das Fleisch von Schweinen.",
+        "definition_english": "Pork is the meat from a pig."
+    },
+    {
+        "word": "H\u00fchnchen",
+        "word_english": "chicken",
+        "definition": "H\u00fchnchen zum Abendessen",
+        "definition_english": "chicken for dinner"
+    },
+    {
+        "word": "Lamm",
+        "word_english": "lamb",
+        "definition": "Lamm ist sehr lecker.",
+        "definition_english": "Lamb is extremely delicious."
+    },
+    {
+        "word": "Fisch",
+        "word_english": "fish",
+        "definition": "Ich liebe es die ganzen Fische im Aquarium schwimmen zu sehen.",
+        "definition_english": "I love to watch all the fish swim at the aquarium."
+    },
+    {
+        "word": "Fu\u00df",
+        "word_english": "foot",
+        "definition": "Sein linker Fu\u00df ist ein bisschen gr\u00f6\u00dfer als sein rechter Fu\u00df.",
+        "definition_english": "His left foot is a little bigger than his right foot."
+    },
+    {
+        "word": "Bein",
+        "word_english": "leg",
+        "definition": "Die Frau w\u00e4scht ihr Bein.",
+        "definition_english": "The woman is  rinsing her leg."
+    },
+    {
+        "word": "Kopf",
+        "word_english": "head",
+        "definition": "Trage einen Helm, um deinen Kopf zu sch\u00fctzen.",
+        "definition_english": "Wear a helmet to protect your head."
+    },
+    {
+        "word": "Arm",
+        "word_english": "arm",
+        "definition": "Die beiden Arme sind gehoben.",
+        "definition_english": "The two arms are raised."
+    },
+    {
+        "word": "Hand",
+        "word_english": "hand",
+        "definition": "Das Kind hebt seine Hand hoch.",
+        "definition_english": "The child is raising his hand."
+    },
+    {
+        "word": "Finger",
+        "word_english": "finger",
+        "definition": "Mein Finger blutet.",
+        "definition_english": "My finger's bleeding."
+    },
+    {
+        "word": "K\u00f6rper",
+        "word_english": "body",
+        "definition": "menschlicher K\u00f6rper",
+        "definition_english": "human body"
+    },
+    {
+        "word": "Magen",
+        "word_english": "stomach",
+        "definition": "Ich habe Magenschmerzen.",
+        "definition_english": "I have a stomach ache."
+    },
+    {
+        "word": "R\u00fccken",
+        "word_english": "back",
+        "definition": "Mein R\u00fccken schmerzt.",
+        "definition_english": "My back hurts."
+    },
+    {
+        "word": "Brustkorb",
+        "word_english": "chest",
+        "definition": "Ich habe Schmerzen im Brustkorb.",
+        "definition_english": "I have chest pain."
+    },
+    {
+        "word": "Krankenschwester",
+        "word_english": "nurse",
+        "definition": "Die Krankenschwester untersucht den Sch\u00fcler im Krankenzimmer der Schule.",
+        "definition_english": "The nurse at the school infirmary is examining the student."
+    },
+    {
+        "word": "Angestellter",
+        "word_english": "employee",
+        "definition": "Die Angestellten haben eine Besprechung im Sitzungssaal.",
+        "definition_english": "The employees are having a meeting in the boardroom."
+    },
+    {
+        "word": "Polizist",
+        "word_english": "police officer",
+        "definition": "Polizist in Uniform",
+        "definition_english": "police officer in uniform"
+    },
+    {
+        "word": "Koch",
+        "word_english": "cook",
+        "definition": "Wir haben einen neuen Koch f\u00fcr das Hotelrestaurant eingestellt.",
+        "definition_english": "We hired a new cook for the hotel restaurant."
+    },
+    {
+        "word": "Ingenieur",
+        "word_english": "engineer",
+        "definition": "Ich bin Ingenieur.",
+        "definition_english": "I am an engineer."
+    },
+    {
+        "word": "Leiter",
+        "word_english": "manager",
+        "definition": "Der Fabrikleiter gibt Anweisungen.",
+        "definition_english": "The factory manager is giving instructions."
+    },
+    {
+        "word": "Lehrerin",
+        "word_english": "teacher",
+        "definition": "Unsere Franz\u00f6sischlehrerin spricht die Sprache zu Hause.",
+        "definition_english": "Our French teacher speaks the language at home."
+    },
+    {
+        "word": "Programmierer",
+        "word_english": "programmer",
+        "definition": "Ich bin Programmierer.",
+        "definition_english": "I am a programmer."
+    },
+    {
+        "word": "Verk\u00e4ufer",
+        "word_english": "salesman",
+        "definition": "Autoverk\u00e4ufer",
+        "definition_english": "car salesman"
+    }
+]
